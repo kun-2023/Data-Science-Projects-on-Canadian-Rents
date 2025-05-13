@@ -1,8 +1,9 @@
 # Linear Regression Data Science Project on Canadian Rents
-## Technology: Python, Pandas, NumPy, Seaborn, Matplotlib, Ridge, Scikit-Learn, Lasso, TensorFlow
-## Data Science Method: Data Manipulation, Visualization, Linear Regression, Deep Learning
+
 ## Case Descriptions
 The purpose of this project is to gain insights and learn patterns between the features and the pricing of rents in Canada. I will also build three different regression models to predict the rents in Canada given different features.
+* **Technology**: Python, Pandas, NumPy, Seaborn, Matplotlib, Ridge, Scikit-Learn, Lasso, TensorFlow
+* **Data Science Method**: Data Manipulation, Visualization, Linear Regression, Deep Learning
 ## Datasets Description
 It has 18 columns and 25771 rows. Not all the features are in the right data type. Some data type needs to be converted to numerical from strings. There are null values in multiple columns.
 The features are rentfaster_id (int64), city (object), province (object), address (object), latitude (float64), longitude (float64), lease_term (object), type(object), price(float), beds (object), baths(object), sq_feet (object), link (object), furnishing (object), availability_date (object), smoking (object), cats (object), dogs (object).
